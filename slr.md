@@ -2,10 +2,10 @@
 
 #over Jeroen
 
-**Voornaam:** Jeroen
+**Voornaam:** Mert  
 
-**Achternaam:** Slemmer
+**Achternaam:** Ozdal
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [mertozdal71@hotmail.com](Mert Guray Ozdal)
 
 **Telefoon:** 0612345678
