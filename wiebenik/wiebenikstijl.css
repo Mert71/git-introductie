@@ -1,0 +1,39 @@
+
+body {
+  background-image: url("nais.jpg");
+  }
+  p {
+  color:white;
+  }
+h1 {
+  color:purple;
+}
+
+h2 {
+  color:pink;
+}
+
+h3{
+  color:purple;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color:blue
+  background-color: yellow;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: white;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+  background-color: : transparent;
+  text-decoration: underline;
+}
